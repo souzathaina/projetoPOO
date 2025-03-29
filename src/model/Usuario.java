@@ -12,7 +12,8 @@ public class Usuario {
 
     //construtor
     public Usuario(){};
-    
+    /*oi*/
+    /* to tentando salvar*/
     public Usuario(int pkid, String nome, String email, String senha, Date datanasc, boolean ativo) {
         this.pkid = pkid; //trocar para pkUsuario
         this.nome = nome;
